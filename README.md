@@ -8,6 +8,8 @@ note-following bands,
 Mute/Solo and a wet/dry Mix per set, a sidechain input and a preset bank. The Edit window
 opens from the machine's right-click menu (**Edit...**).
 
+![The Pedal BlockFX Edit window, with input and output spectrograms, two FX sets (Smear and Contrast) and the globals row](docs/edit-window.png)
+
 ## What it does
 
 It runs a block FFT on the input, applies up to 16 spectral FX sets, and resynthesises
